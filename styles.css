@@ -1,0 +1,38 @@
+body {
+  background-color: #A3DA8D;
+}
+
+
+h1 {
+  color:#D9D7F1;
+  font-size: 100px
+}
+
+h2 {
+  color:black;
+  font-size: 20px
+}
+
+
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FFCCD2;
+  border-width: 15px;
+  width: 90%;
+}
+
+
+.p1 {
+  font-family: "Papyrus", Fantasy;
+  text-align: center;
+}
+
+.p2 {
+  border-style: none;
+  border-top-style:dashed;
+  border-color: #D9D7F1;
+  border-width: 5px;
+  width: 30%;
+}
